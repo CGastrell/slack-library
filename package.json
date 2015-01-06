@@ -1,0 +1,32 @@
+{
+  "name": "slack-library",
+  "version": "0.0.1",
+  "description": "Slack URL librarian. Message search interface through slack API for message shared URLs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.10.6",
+    "moment": "^2.8.4",
+    "superagent": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CGastrell/slack-library"
+  },
+  "keywords": [
+    "slack",
+    "url",
+    "message",
+    "search",
+    "api"
+  ],
+  "author": "cg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CGastrell/slack-library/issues"
+  },
+  "homepage": "https://github.com/CGastrell/slack-library"
+}
